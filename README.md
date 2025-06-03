@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.icons8.com/color/150/microsoft-excel-2019--v1.png" alt="Excel" />
-  <img src="https://img.icons8.com/external-flat-juicy-fish/150/external-database-coding-and-development-flat-flat-juicy-fish.png" alt="SQL / Database" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="150" height="150" alt="SQL Server" />
   <img src="https://img.icons8.com/color/150/power-bi.png" alt="Power BI" />
   <img src="https://cdn.simpleicons.org/python/3776AB" width="150" height="150" alt="Python" />
 </p>
