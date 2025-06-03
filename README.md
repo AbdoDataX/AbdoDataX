@@ -1,10 +1,10 @@
 # Abdulrahman - Data Analyst
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://cdn.simpleicons.org/microsoft-excel/217346" width="250" height="250" alt="Excel" />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/cc2927" width="250" height="250" alt="SQL Server" />
+  <img src="https://cdn.simpleicons.org/powerbi/f2c811" width="250" height="250" alt="Power BI" />
+  <img src="https://cdn.simpleicons.org/python/3776ab" width="250" height="250" alt="Python" />
 </p>
 
 
