@@ -1,13 +1,11 @@
 # Abdulrahman - Data Analyst
 
-
 <p align="center">
-  <img src="https://img.icons8.com/color/250/microsoft-excel-2019--v1.png" alt="Excel" />
-  <img src="https://img.icons8.com/color/250/microsoft-sql-server.png" alt="SQL Server" />
-  <img src="https://img.icons8.com/color/250/power-bi.png" alt="Power BI" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="250" height="250" alt="Python" />
+  <img src="https://img.icons8.com/color/150/microsoft-excel-2019--v1.png" alt="Excel" />
+  <img src="https://img.icons8.com/external-flat-juicy-fish/150/external-database-coding-and-development-flat-flat-juicy-fish.png" alt="SQL / Database" />
+  <img src="https://img.icons8.com/color/150/power-bi.png" alt="Power BI" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="150" height="150" alt="Python" />
 </p>
-
 
 
 ---
